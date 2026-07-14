@@ -1,0 +1,7 @@
+Suburb,Post Code (text),Delivery Depot,Charge Zone,Distance (Google),Longitude (mapbox),Latitude (mapbox),Feature_Name,Feature_Type,Manual_Input,Longitude (depots),Latitude (depots),Validate,Distance (mapbox),Final Marker
+Abbey Caves,0110,WHANGAREI,METRO,9,174.3592,-35.738636,Abbey Caves,locality,,174.3094016,-35.7478701,True,7.11,False
+Abbotsford,9018,DUNEDIN,METRO,8,170.42574,-45.89463,Abbotsford,locality,,170.5034536,-45.8895713,True,7.10,False
+Airport Oaks,2022,AUCKLAND,METRO,6,174.7908,-36.9887,Airport Oaks,locality,,174.792107,-36.973468,True,1.70,False
+Hamilton Central,3204,HAMILTON,METRO,4,175.2793,-37.7870,Hamilton Central,locality,,175.279253,-37.787001,True,0.00,False
+Mount Maunganui,3116,TAURANGA,METRO,7,176.1860,-37.6418,Mount Maunganui,locality,,176.177918,-37.687797,True,5.20,False
+

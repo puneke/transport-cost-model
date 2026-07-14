@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Private source data and generated outputs
+data/raw/
+data/output/
+data/cache/
+*.xlsx
+!data/sample/*.csv
+
+# Large road graph files should be downloaded or generated locally.
+*.graphml
+*.gpkg

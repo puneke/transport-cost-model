@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "transport-cost-model"
+version = "0.1.0"
+description = "Transport geocoding, distance enrichment, and cost-model pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.0",
+  "requests>=2.31",
+  "networkx>=3.0",
+  "osmnx>=1.9",
+  "openpyxl>=3.1",
+  "matplotlib>=3.8",
+  "itables>=2.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
