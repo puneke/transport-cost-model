@@ -1,6 +1,6 @@
 # Transport Cost Model
 
-This project cleans and documents a transport cost model creation pipeline:
+Client requied a more robust costing model. Starting with a dataset of locations, this project documents the creation of a transport cost model pipline:
 
 1. Prepare suburb/postcode delivery zones.
 2. Geocode each suburb/postcode pair.
